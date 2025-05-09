@@ -93,8 +93,9 @@ streamlit run app.py
 ---
 
 ## 📸 Preview
+![AgriNex - Google Chrome 09-05-2025 09_50_26](https://github.com/user-attachments/assets/c4ef5010-97b7-474b-8948-d975596a0637)
 
-*Add Streamlit screenshots here once available to showcase the interface.*
+
 
 ---
 
